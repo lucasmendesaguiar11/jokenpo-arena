@@ -114,4 +114,4 @@ Cobrem: todas as combinações de regras, validação de jogadas, Melhor de 1 (i
 
 ## 👤 Autor
 
-**Lucas Mendes Aguiar** — estudante de Desenvolvimento de Sistemas.
+**Lucas Mendes Aguiar** — estudante de T.I & Desenvolvimento de Sistemas.
